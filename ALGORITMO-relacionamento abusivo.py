@@ -52,4 +52,4 @@ def programa():
         print('Aparentemente não há muitos sinais abusivos. Mantenha-se alerta!')
 
 informacoes()
-programa(
+programa()
